@@ -37,9 +37,11 @@ If you want to see the PowerProof, this is here, below:
 Tested on a 2 cores machine with 900MBytes/s Upload
 
 
-Creator: BG_InfinityX
-Collaboration: No one, i did it alone
-License: MIT License
+Creator: **BG_InfinityX**
+
+Collaboration: **No one, i did it alone**
+
+License: **MIT License**
 
 Want to donate ?
 Sorry, i dont want money
