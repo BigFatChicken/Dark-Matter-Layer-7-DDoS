@@ -26,6 +26,7 @@ The requeriments is not too much, right ?
 
 If you want to see the PowerProof, this is here, below:
 ![image](https://user-images.githubusercontent.com/84208271/118342761-3988f500-b4fb-11eb-9d5b-bea2044993af.png)
+(1000k is equivalent to 1Million)
 
 Tested on a 2 cores machine with 900MBytes/s Upload
 
