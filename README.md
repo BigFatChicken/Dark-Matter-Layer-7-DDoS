@@ -4,12 +4,18 @@ Dark Matter is a Stresser that attacks on Layer 7, i have been developing this f
 
 **Features:**
 
-**- DDoS Simulation: It can simulate a real DDoS with big power
-**- RateLimit bypass: It have 2 bypasses for rate-limiting
-**- Powerful: The power average is 900k requests and max. power is between 2Millions-6Millions requests depending on your VPS power, 1M is easy to reach with a common VPS
-**- OpenSource: It is 'opensource', then u can edit or use this to create ur own stresser
-**- Firewall Bypass: It have some firewall rules bypass
-**- Free: Free for download, Free for use... u dont need to pay anything
+**- DDoS Simulation: It can simulate a real DDoS with big power**
+
+**- RateLimit bypass: It have 2 bypasses for rate-limiting**
+
+**- Powerful: The power average is 900k requests and max. power is between 2Millions-6Millions requests depending on your VPS power, 1M is easy to reach with a common VPS**
+
+**- OpenSource: It is 'opensource', then u can edit or use this to create ur own stresser**
+
+**- Firewall Bypass: It have some firewall rules bypass**
+
+**- Free: Free for download, Free for use... u dont need to pay anything**
+
 **- No-Threads: It uses a different technology instead of threads, it means that it wont make ur computer burn and u dont need too much threads in your CPU**
 
 **Requeriments to run:**
