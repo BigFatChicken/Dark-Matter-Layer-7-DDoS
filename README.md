@@ -1,6 +1,6 @@
 # DarkMatter (Layer 7 DDoS)
 
-Dark Matter is a Stresser that attacks on Layer 7, i have been developing this for a time... i guess it is one of the betters free-opensource DDoS Scripts. **(for testing purposes only or if you are allowed to perform the ddos attack)**
+Dark Matter is a Stresser that attacks on Layer 7, i have been developing this for a time... i guess it is one of the betters free-opensource DDoS Scripts. **(this is for testing purposes only or if you are allowed to perform the ddos attack)**
 
 **Features:**
 
@@ -23,7 +23,7 @@ Dark Matter is a Stresser that attacks on Layer 7, i have been developing this f
 **- FIRST OF ALL: DONT RUN IN YOUR OWN MACHINE IF IT IS JUST A HOME-DESKTOP, HOME-LAPTOP OR ANY HOME-COMPUTER... IF UR MACHINE IS REALLY REALLY GOOD FOR THIS, TRY RUNNING THE ATTACK IN THIS MACHINE IN A REMOTEACCESS, OR U CANT SEE THE TRUE POWER**
 ---------------------------------------------
 - 2+ cores CPU
-- 1GBytes/s Internet Speed **(Upload)**
+- 400MBits/s Internet Speed **(Upload)**
 - 1 GB Ram Free
 - Recommended using VPS with linux, but u can use another OS (Windows), MAC is not recommended but it is up to you
 
